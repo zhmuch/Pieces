@@ -10,4 +10,4 @@ public void sol() {
             n++;
         }
         return;
-}
+    }
